@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit Example</string>
+    <string name="post_number">Post Number:</string>
+</resources>
